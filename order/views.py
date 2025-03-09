@@ -92,7 +92,7 @@ class OrderActionView(View):
 
 class RevenueView(TemplateView):
     """Вьюшка для расчета выручки за текущий день"""
-    template_name = "order/revenue.html"
+    template_name = "main/revenue.html"
 
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)

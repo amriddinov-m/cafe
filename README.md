@@ -7,7 +7,7 @@
 
 ### 1️⃣ Клонирование репозитория  
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/amriddinov-m/cafe.git
 cd cafe
 ```
 ### 2️⃣ Установка виртуального окружения
